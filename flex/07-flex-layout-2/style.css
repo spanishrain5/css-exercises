@@ -59,10 +59,11 @@ body {
 }
 
 .sidebar {
-  width: 500px;
+  width: 300px;
   background: royalblue;
   box-sizing: border-box;
   padding: 15px;
+  flex: 0 0 auto;
 }
 
 ul {
